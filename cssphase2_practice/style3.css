@@ -1,0 +1,14 @@
+h2 {
+    font-size: xx-large;
+}
+p {
+    font-size: larger;
+    background-color: burlywood;
+    color: darkgreen;
+}
+button {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+  }
